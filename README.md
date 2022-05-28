@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Panigrahi</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack Web developer from India</h3>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" width="400" align="center"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar69&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar69" /> </p>
