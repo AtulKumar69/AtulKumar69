@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atulkumar69" alt="atulkumar69" /></a> </p>
 
-- 🌱 I’m currently learning **React, MangoDB, ExpressJs**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Typescript, MangoDB, ExpressJs**
 
 - 📫 How to reach me **atulkumarpanigrahi95@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o3i_z9OTKqIPea72gLZkOua16RK4ky7ETRxKSV4qKLo/edit](https://docs.google.com/document/d/1o3i_z9OTKqIPea72gLZkOua16RK4ky7ETRxKSV4qKLo/edit)
+- Portfolio : https://phenomenal-semolina-2290ab.netlify.app/
 
 - ⚡ Fun fact **I think I am funny😉😉**
 
