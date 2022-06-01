@@ -14,6 +14,8 @@
 - Portfolio : https://phenomenal-semolina-2290ab.netlify.app/
 - LICIOUS CLONE : Licious is leading to  deliver one-stop fresh meat.It is India’s first D2C Unicorn, The company operates on a farm-to-fork model, 
               owning the entire back-end supply chain and cold chain[https://licious.netlify.app/]
+- HOME-DEPOT CLONE : The Home Depot, is the largest home improvement retailer in the United States, supplying tools, 
+              constructionproducts, appliances, and services.[https://visionary-pastelito-fbdbfd.netlify.app/]              
 
 - ⚡ Fun fact **I think I am funny😉😉**
 
