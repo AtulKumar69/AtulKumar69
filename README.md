@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o3i_z9OTKqIPea72gLZkOua16RK4ky7ETRxKSV4qKLo/edit](https://docs.google.com/document/d/1o3i_z9OTKqIPea72gLZkOua16RK4ky7ETRxKSV4qKLo/edit)
 - Portfolio : https://phenomenal-semolina-2290ab.netlify.app/
+- LICIOUS CLONE : Licious is leading to  deliver one-stop fresh meat.It is India’s first D2C Unicorn, The company operates on a farm-to-fork model, 
+              owning the entire back-end supply chain and cold chain[https://licious.netlify.app/]
 
 - ⚡ Fun fact **I think I am funny😉😉**
 
