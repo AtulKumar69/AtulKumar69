@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Panigrahi</h1>
 <h3 align="center">A passionate full-stack Web developer from India</h3>
+<P>I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
+
+    My field of Interest's are building new Web Technologies and Products
+    A passionate Full Stack Web Developer 🚀
+    I have an experience of building Web applications with
+    HTML, CSS, JavaScript, Reactjs, Typescript and some other cool libraries
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" width="400" align="center"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkumar69&label=Profile%20views&color=0e75b6&style=flat" alt="atulkumar69" /> </p>
