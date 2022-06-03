@@ -22,9 +22,7 @@
               owning the entire back-end supply chain and cold chain[https://licious.netlify.app/]
 - HOME-DEPOT CLONE : The Home Depot, is the largest home improvement retailer in the United States, supplying tools, 
               constructionproducts, appliances, and services.[https://visionary-pastelito-fbdbfd.netlify.app/]     
-- IDEAKART CLONE : IdeaKart is a first of it's kind marketplace where we can give and take ideas, either freely or via payment.
-
-              The idea status depends upon whether the person has made his idea freely available or wants to be get paid for sharing it with others.[https://incandescent-elf-2f85d6.netlify.app/]
+- IDEAKART CLONE : IdeaKart is a first of it's kind marketplace where we can give and take ideas, either freely or via payment.[https://incandescent-elf-2f85d6.netlify.app/]
 
 - ⚡ Fun fact **I think I am funny😉😉**
 
