@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **atulkumarpanigrahi95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qg0T-RRfUwSiI531BoRwR6esihFDLh93/view?usp=sharing](https://docs.google.com/document/d/1o3i_z9OTKqIPea72gLZkOua16RK4ky7ETRxKSV4qKLo/edit)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1qg0T-RRfUwSiI531BoRwR6esihFDLh93/view?usp=sharing](https://drive.google.com/file/d/1qg0T-RRfUwSiI531BoRwR6esihFDLh93/view?usp=sharing)
 - Portfolio :https://portfolio-atul-kumar-panigrahi.netlify.app/
 - LICIOUS CLONE : Licious is leading to  deliver one-stop fresh meat.It is India’s first D2C Unicorn, The company operates on a farm-to-fork model, 
               owning the entire back-end supply chain and cold chain[https://licious.netlify.app/]
