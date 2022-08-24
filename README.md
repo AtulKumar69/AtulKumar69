@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atul Kumar Panigrahi</h1>
 <h2 align="center">A passionate full-stack Web developer from India</h2>
 <p align="center">I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
-                                 My field of Interest's are building new Web Technologies and Products
+                                 My field of Interest's are building new Web Technologies and Products. 
                                 A passionate Full Stack Web Developer 🚀
                                 I have an experience of building Web applications with
                                 HTML, CSS, JavaScript, Reactjs and some other cool libraries</p>
